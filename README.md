@@ -50,7 +50,7 @@ I am a recent **MCA Graduate (2024)** from APJ Abdul Kalam Technological Univers
 ---
 
 ## 📬 Connect with Me
-* [**Download My Resume**](LINK_TO_YOUR_UPLOADED_PDF_HERE)
+* [**Download My Resume**](sandeepk1.pdf)
 * [span_20](start_span)[**LinkedIn Profile**](https://www.linkedin.com/in/sandeep-k776335268)[span_20](end_span)
 * **[span_21](start_span)Email:** sandeepjb62@gmail.com[span_21](end_span)
 
